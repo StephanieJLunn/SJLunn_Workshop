@@ -11,6 +11,12 @@ body {
 	margin-top: 5%;
 }
 
+.greeting {
+	font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: normal;
+	font-size: 1em;
+}
+
 .profile-pic {
 	height: 200px;
 	width: 200px;
@@ -30,6 +36,7 @@ h1 {
     font-weight: normal;
     font-size: 3em;
 	font-variant: small-caps;
+	text-shadow: 2px 2px #ffffff;
     color: black;
 }
 
@@ -38,6 +45,7 @@ h1 {
     font-weight: normal;
 	font-size: 1em;
 	font-variant: small-caps;
+	text-shadow: 2px 2px #ffffff;
 	color: black;
     position: fixed;
     width: calc(100% - 40px);
