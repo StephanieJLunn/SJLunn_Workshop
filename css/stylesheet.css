@@ -1,6 +1,6 @@
 body {
     background-color: #282828;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: "Arial Black", Gadget, sans-serif;
 }
 
 .bg {
@@ -8,25 +8,37 @@ body {
 	bankground-repeat: no-repeat; 
 	background-size: cover; 
 	color: black;
-	margin-top: 10%;
-	}
+	margin-top: 5%;
+}
 
 .profile-pic {
 	height: 200px;
 	width: 200px;
 	border-radius: 50%;
-	}
+}
 			
 a{
 	color: black;
-	}
+}
 			
 a:hover{
 	color: white;
-	}
+}
+
+h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: normal;
+    font-size: 3em;
+	font-variant: small-caps;
+    color: black;
+}
 
 .footer {
-    color: black;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: normal;
+	font-size: 1em;
+	font-variant: small-caps;
+	color: black;
     position: fixed;
     width: calc(100% - 40px);
     height: 50px;
